@@ -2,6 +2,8 @@
 
 Very tiny modal in vanilla js.
 
+[DEMO](http://fernando.so/modalzinha/)
+
 ### Usage
 
 Load CSS:
