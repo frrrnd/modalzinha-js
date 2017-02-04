@@ -1,8 +1,8 @@
 /*
 * Modalzinha.js
 *
-* by Fernando Soares (dotfernando@gmail.com)
-* github.com/ferspeak/modalzinha-js
+* by Fernando Soares (@frrrnd)
+* github.com/frrrnd/modalzinha-js
 *
 */
 

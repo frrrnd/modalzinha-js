@@ -1,10 +1,8 @@
-## Modalzinha.js
+# modalzinha.js 🖥
 
-Very tiny modal in vanilla js.
+A Very simple tiny modal in vanilla js.
 
-[DEMO](http://fernando.so/modalzinha/)
-
-### Usage
+## Usage
 
 Load CSS:
 
@@ -32,3 +30,10 @@ HTML:
         </div>
       </div>
 ``` 
+
+This is basic modal style.
+
+
+## License
+
+MIT. See /LICENSE
